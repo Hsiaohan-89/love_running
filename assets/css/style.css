@@ -85,11 +85,18 @@ nav {
 
 /* main */
 main {
-    background-color: lightblue;
     /* Make main element take up any surplus space to push footer down*/
     flex: 1 0 auto;
-    /*In the video is margin top 47px will not show my main menu */
     margin-top: 47px;
+
+}
+
+/* hero section style*/
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url(../images/hero-image.webp) no-repeat center center/cover;
+
 }
 
 /* footer */
