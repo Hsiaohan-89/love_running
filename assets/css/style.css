@@ -134,6 +134,22 @@ main {
     margin-bottom: 20px;
 }
 
+#benefits-physical, #benefits-mental {
+    margin-bottom: 20px;
+    line-height; 20px;
+}
+
+#benefits-physical > p, #benefits-mental > p {
+    padding: 0 20px;
+}
+
+hr {
+    border-top:1px solid #3a3a3a;
+    margin: 5px 0;
+}
+#benefits-physical > i, #benefits-mental > i {
+    display:flex;
+}
 
 /* footer */
 #social-networks {
