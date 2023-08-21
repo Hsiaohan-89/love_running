@@ -121,6 +121,20 @@ main {
     color: #ffffff;
 }
 
+/* signup */
+
+#reasons {
+    width: 90%;
+    height: inherit;
+    margin: 20px auto 20px auto;
+}
+
+#reasons>h2 {
+    font-size: 280%;
+    margin-bottom: 20px;
+}
+
+
 /* footer */
 #social-networks {
     text-align: center;
