@@ -149,6 +149,12 @@ hr {
     margin: 5px 0;
 }
 
+#circle-cover-bg {
+    background: url(../images/reasons-image.webp) no-repeat top center/cover;
+    margin-bottom: 20px;
+    width: 90vw;
+    height: 90vw;
+}
 
 /* footer */
 #social-networks {
