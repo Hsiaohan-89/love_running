@@ -154,6 +154,16 @@ hr {
     margin-bottom: 20px;
     width: 90vw;
     height: 90vw;
+    /* makes the aquare image into a circle */
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+}
+
+#benefits-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 /* footer */
