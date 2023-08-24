@@ -171,8 +171,7 @@ hr {
 }
 
 #times {
-    background-image: url(../images/dublin-city.webp);
-    no-repeat center/cover;
+    background-image: url(../images/dublin-city.webp) no-repeat center/cover;
     /* Handles responsivity without the need for media query*/
     display: flex;
     flex-wrap: wrap;
