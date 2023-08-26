@@ -227,10 +227,8 @@ hr {
 
 }
 
-#first_name input,
-#last_name input,
-#email_address input {
-    margin-bottom: 3px;
+input {
+    margin-top: 3px;
 }
 
 /* Media query: large and landscape phones (576px and up) */
