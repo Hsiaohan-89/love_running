@@ -174,7 +174,7 @@ hr {
 }
 
 #times {
-    background-image: url(../images/dublin-city.webp) no-repeat center/cover;
+    background: url(../images/dublin-city.webp) no-repeat center/cover;
     /* Handles responsivity without the need for media query*/
     display: flex;
     flex-wrap: wrap;
@@ -189,8 +189,8 @@ hr {
     each div will expand to fill the avaliable space on its row */
     flex-grow: 1;
     flex-basis: 200px;
-    /* Creates a grid of meetup times      over the background image*/
-    border: 2px soild white;
+    /* Creates a grid of meetup times dives over the background image*/
+    border: 2px solid white;
 }
 
 #times h3 {
